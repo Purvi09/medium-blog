@@ -24,4 +24,4 @@ This project is a web application similar to Medium, where users can sign up, si
 - **Database:**
   - PostgreSQL
 - **Authentication:**
-  - JWT (Cookies approach explained at the end)
+  - JWT 
